@@ -1,12 +1,12 @@
-#Medya Spec
+# Medya Spec
 
-##Download
+## Download
 
-##Subscribe
+## Subscribe
 
-##Watch
+## Watch
 
-##Torrent automation
+## Torrent automation
 
 - Check registered torrent proccesses running.
 - Start/stop VPN (using config settings)
